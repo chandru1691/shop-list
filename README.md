@@ -51,3 +51,4 @@ $ npm install
 ```sh 
 $ npm start
 ```
+5.  You can view the application at http://localhost:8080
